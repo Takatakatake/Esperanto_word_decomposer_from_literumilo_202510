@@ -1,0 +1,73 @@
+Source files: wiki_esperanto.txt, wikisource_udhr.txt
+Total tokens: 11268
+Unique words analysed: 3520
+
+Summary counts:
+  new_valid_old_invalid: 36
+  both_valid_diff_seg: 26
+  old_valid_new_invalid: 0
+  both_invalid: 600
+
+Detailed differences (word	category	new_segmentation	old_segmentation):
+arkivejo	new_valid_old_invalid	arkiv.ej.o	arkivejo
+arĥaika	new_valid_old_invalid	arĥaik.a	arĥaika
+aviadile	both_valid_diff_seg	aviad.il.e	avi.ad.il.e
+aviadilo	both_valid_diff_seg	aviad.il.o	avi.ad.il.o
+barcelono	new_valid_old_invalid	barcelon.o	barcelono
+britujo	new_valid_old_invalid	brit.uj.o	britujo
+brno	new_valid_old_invalid	brn.o	brno
+censo	new_valid_old_invalid	cens.o	censo
+certagrade	both_valid_diff_seg	cert.a.grad.e	cert.ag.rad.e
+danio	both_valid_diff_seg	dan.i.o	dani.o
+darvino	new_valid_old_invalid	darvin.o	darvino
+esperantologio	both_valid_diff_seg	esperantologi.o	esper.antologi.o
+eŭro	new_valid_old_invalid	eŭr.o	eŭro
+francio	both_valid_diff_seg	franc.i.o	franci.o
+germanio	both_valid_diff_seg	german.i.o	germani.o
+hejmen	both_valid_diff_seg	hejm.e.n	hejm.en
+hungario	both_valid_diff_seg	hungar.i.o	hungari.o
+informadiko	new_valid_old_invalid	inform.ad.ik.o	informadiko
+interlingvistiko	both_valid_diff_seg	interlingvistik.o	inter.lingvistik.o
+jokohamo	new_valid_old_invalid	jokoham.o	jokohamo
+kimĉio	new_valid_old_invalid	kimĉi.o	kimĉio
+kolonjo	new_valid_old_invalid	kolonj.o	kolonjo
+lazaro	both_valid_diff_seg	lazar.o	laz.ar.o
+linukso	new_valid_old_invalid	linuks.o	linukso
+litovio	both_valid_diff_seg	litov.i.o	litovi.o
+ludoviko	both_valid_diff_seg	ludovik.o	lud.ov.ik.o
+makolio	new_valid_old_invalid	makoli.o	makolio
+mezume	new_valid_old_invalid	mez.um.e	mezume
+noo	new_valid_old_invalid	no.o	noo
+novaĵretejo	new_valid_old_invalid	nov.aĵ.ret.ej.o	novaĵretejo
+perrete	new_valid_old_invalid	per.ret.e	perrete
+politologo	new_valid_old_invalid	politolog.o	politologo
+pollando	new_valid_old_invalid	pol.land.o	pollando
+produktiva	new_valid_old_invalid	produktiv.a	produktiva
+raŭmismo	new_valid_old_invalid	raŭm.ism.o	raŭmismo
+retejo	new_valid_old_invalid	ret.ej.o	retejo
+retpoŝte	new_valid_old_invalid	ret.poŝt.e	retpoŝte
+roterdamo	new_valid_old_invalid	roterdam.o	roterdamo
+rusia	both_valid_diff_seg	rus.i.a	rusi.a
+rusio	both_valid_diff_seg	rus.i.o	rusi.o
+rusujo	new_valid_old_invalid	rus.uj.o	rusujo
+sovetunio	both_valid_diff_seg	sovet.uni.o	sovetuni.o
+specifeco	new_valid_old_invalid	specif.ec.o	specifeco
+spontanea	new_valid_old_invalid	spontane.a	spontanea
+statuso	new_valid_old_invalid	status.o	statuso
+svedio	both_valid_diff_seg	sved.i.o	svedi.o
+tekvondo	new_valid_old_invalid	tekvond.o	tekvondo
+televida	both_valid_diff_seg	televid.a	tele.vid.a
+televido	both_valid_diff_seg	televid.o	tele.vid.o
+umi	new_valid_old_invalid	um.i	umi
+unesko	new_valid_old_invalid	unesk.o	unesko
+unikodo	both_valid_diff_seg	unikod.o	uni.kod.o
+unuagrada	both_valid_diff_seg	unu.a.grad.a	unu.ag.rad.a
+upsalo	new_valid_old_invalid	upsal.o	upsalo
+varianto	both_valid_diff_seg	vari.ant.o	variant.o
+venontjare	new_valid_old_invalid	ven.ont.jar.e	venontjare
+vikio	new_valid_old_invalid	viki.o	vikio
+vikipedio	new_valid_old_invalid	vikipedi.o	vikipedio
+vortaristo	both_valid_diff_seg	vort.ar.ist.o	vort.arist.o
+vortfarado	both_valid_diff_seg	vort.far.ad.o	vort.farad.o
+vortostoko	both_valid_diff_seg	vort.o.stok.o	vort.ost.ok.o
+ĉinio	both_valid_diff_seg	ĉin.i.o	ĉini.o

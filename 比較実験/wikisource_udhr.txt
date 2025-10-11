@@ -1,0 +1,88 @@
+Universala Deklaracio pri Homaj Rajtoj - Vikifontaro
+(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-disabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 vector-feature-night-mode-disabled skin-theme-clientpref-day vector-sticky-header-enabled vector-toc-not-available";var cookie=document.cookie.match(/(?:^|; )eowikisourcemwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","januaro","februaro","marto","aprilo","majo","junio","julio","aŭgusto","septembro","oktobro","novembro","decembro"],"wgRequestId":"26dc1ab7-6ca3-43bb-b076-f2f6723a0ede","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Universala_Deklaracio_pri_Homaj_Rajtoj","wgTitle":"Universala Deklaracio pri Homaj Rajtoj","wgCurRevisionId":0,"wgRevisionId":0,"wgArticleId":0,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgPageViewLanguage":"eo","wgPageContentLanguage":"eo","wgPageContentModel":"wikitext","wgRelevantPageName":"Universala_Deklaracio_pri_Homaj_Rajtoj","wgRelevantArticleId":0,"wgTempUserName":null,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionCreate":[],"wgNoticeProject":"wikisource","wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"eo","pageLanguageDir":"ltr","pageVariantFallbacks":"eo"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":0,"wgMetricsPlatformUserExperiments":{"active_experiments":[],"overrides":[],"enrolled":[],"assigned":[],"subject_ids":[],"sampling_units":[]},"prpProofreadPageBookNamespaces":[0],"wgEditSubmitButtonLabelPublish":true,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":false,"wgVector2022LanguageInHeader":true,"wgULSisLanguageSelectorEmpty":true,"wgCheckUserClientHintsHeadersJsApi":["brands","architecture","bitness","fullVersionList","mobile","model","platform","platformVersion"]};
+RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","mediawiki.codex.messagebox.styles":"ready","ext.proofreadpage.base":"ready","ext.proofreadpage.article":"ready","ext.wikimediamessages.styles":"ready","skins.vector.search.codex.styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready"};RLPAGEMODULES=["ext.xLab","site","mediawiki.page.ready","skins.vector.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.urlShortener.toolbar","ext.centralauth.centralautologin","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.interface","ext.checkUser.clientHints"];
+(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});
+Saltu al enhavo
+Ĉefa menuo
+Ĉefa menuo
+movigi al flanka panelo
+kaŝi
+Navigado
+Ĉefpaĝo
+Ĉiuj paĝoj
+Hazarda teksto
+Hazarda aŭtoro
+Helpo
+Specialaj paĝoj
+Por redaktantoj
+Diskutejo
+Lastaj ŝanĝoj
+Novaj paĝoj
+Hazarda indekso
+Hazarda libro
+Hazarda antologio
+Hazarda teatraĵo
+Hazarda gazeto
+Hazarda vortaro
+Provejo
+Serĉi
+Serĉi
+Aspekto
+Donaci
+Krei konton
+Ensaluti
+Personaj iloj
+Donaci
+Krei konton
+Ensaluti
+Universala Deklaracio pri Homaj Rajtoj
+Aldoni lingvojn
+Paĝenhavo ne ekzistas en aliaj lingvoj.
+Paĝo
+Diskuto
+Esperanto
+Krei
+Iloj
+Iloj
+movigi al flanka panelo
+kaŝi
+Agoj
+Krei
+Ĝenerale
+Ligiloj ĉi tien
+Alŝuti dosieron
+Informoj pri la paĝo
+Akiri mallongigitan URL
+Elŝutu QR-kodon
+En aliaj projektoj
+Aspekto
+movigi al flanka panelo
+kaŝi
+El Vikifontaro
+La printebla versio ne plu estas subtenata kaj povas havi bildigajn erarojn. Bonvolu ĝisdatigi viajn retumilajn legosignojn kaj bonvolu anstataŭe uzi la defaŭltan retumilan printan funkcion.
+Mankas teksto en ĉi tiu paĝo.
+Vi povas
+serĉi ĉi tiun paĝtitolon
+en aliaj paĝoj,
+serĉi la rilatajn protokolojn
+,
+aŭ
+krei ĉi tiun paĝon
+.
+Elŝutita el  "
+https://eo.wikisource.org/wiki/Universala_Deklaracio_pri_Homaj_Rajtoj
+"
+Regularo pri respekto de la privateco
+Pri Vikifontaro
+Malgarantioj
+Code of Conduct
+Programistoj
+Statistikoj
+Deklaro pri kuketoj
+Poŝtelefona vido
+Serĉi
+Serĉi
+Universala Deklaracio pri Homaj Rajtoj
+Aldoni temon
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.codfw.main-6ffc9bb75d-gvtn2","wgBackendResponseTime":103,"wgPageParseReport":{"limitreport":{"cputime":"0.005","walltime":"0.005","ppvisitednodes":{"value":13,"limit":1000000},"revisionsize":{"value":91,"limit":2097152},"postexpandincludesize":{"value":764,"limit":2097152},"templateargumentsize":{"value":0,"limit":2097152},"expansiondepth":{"value":4,"limit":100},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"entityaccesscount":{"value":0,"limit":500},"timingprofile":["100.00%    0.000      1 -total"]},"cachereport":{"origin":"mw-web.codfw.main-6ffc9bb75d-gvtn2","timestamp":"20251011104452","ttl":2592000,"transientcontent":false}}});});
