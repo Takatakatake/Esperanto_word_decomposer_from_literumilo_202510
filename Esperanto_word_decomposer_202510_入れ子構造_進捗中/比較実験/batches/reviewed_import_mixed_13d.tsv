@@ -1,0 +1,29 @@
+# morpheme	POS	MEANING	TRANS	WITHOUT_END	WITH_END	SYNTH	RARITY	FLAG	# SOURCE
+# Batch 13d: ships, animals, plants, chemistry, medical, geological sciences
+galiot	SUBST	SXIPO	N	N	KF	NLM	4	R	# PIV:galioto - [Marnavigado] Mezepoka remŝipo aŭ fiŝkapta ŝipo # OK
+galus	SUBST	N	N	N	KF	NLM	4	R	# PIV:galuso - [Sporto] Malpeza pneŭo por biciklo # OK
+galvanizad	SUBST	N	N	N	KF	NLM	4	R	# PIV:galvanizado - [Teknikoj] Procedo por galvanizi metalan surfacon # OK
+gamar	SUBST	ANIMALO	N	N	KF	NLM	4	R	# PIV:gamaro - [Zoologio] Genro de krustacoj # OK
+gametofit	SUBST	PLANTO	N	N	KF	NLM	4	R	# PIV:gametofito - [Botaniko] Unuploida generacio de planto # OK
+gamopetal	SUBST	PLANTO	N	N	KF	NLM	4	R	# PIV:gamopetaloj - [Botaniko] Kuniĝpetaluloj # OK
+gangliit	SUBST	MALSANO	N	N	KF	NLM	4	R	# PIV:gangliito - [Medicino] Inflamo de gangli o # OK
+ganguj	SUBST	N	N	N	KF	NLM	4	R	# PIV:gangujo - [Geologio] Senvalora maso en ercvejno # OK
+gantr	SUBST	N	N	N	KF	NLM	4	R	# PIV:gantro - Horizontala trabo por signaliloj, kabloj # OK
+garcini	SUBST	PLANTO	N	N	KF	NLM	4	R	# PIV:garcinio - [Botaniko] Genro de arboj kun manĝeblaj fruktoj # OK
+garen	SUBST	N	N	N	KF	NLM	4	R	# PIV:gareno - Sabla loko kie loĝas kunikloj # OK
+garig	SUBST	N	N	N	KF	NLM	4	R	# PIV:garigo - [Botaniko/Ekologio] Arbusta vegetaĵaro # OK
+gari	SUBST	PLANTO	N	N	KF	NLM	4	R	# PIV:gario - [Botaniko] Genro de trunkarbustoj # OK
+gasogen	SUBST	MASXINO	N	N	KF	NLM	4	R	# PIV:gasogeno - Aparato por fabriki gason # OK
+gasojl	SUBST	KEMIAJXO	N	N	KF	NLM	4	R	# PIV:gasojlo - [Teknikoj] Peza benzino por dizelo # OK
+gasteromicet	SUBST	FUNGO	N	N	KF	NLM	4	R	# PIV:gasteromicetoj - [Botaniko] Grupo de bazidifungoj # OK
+gastralgi	SUBST	MALSANO	N	N	KF	NLM	4	R	# PIV:gastralgio - [Medicino] Stomaka doloro # OK
+gastrektomi	SUBST	N	N	N	KF	NLM	4	R	# PIV:gastrektomio - [Medicino] Desekco de stomako # OK
+gastrin	SUBST	N	N	N	KF	NLM	4	R	# PIV:gastrino - [Biologio] Stomaka hormono # OK
+gastrofil	SUBST	INSEKTO	N	N	KF	NLM	4	R	# PIV:gastrofilo - [Zoologio] Genro de insektoj # OK
+gastroknemi	SUBST	ANATOMIO	N	N	KF	NLM	4	R	# PIV:gastroknemio - [Anatomio] Muskolo formanta la suron # OK
+gatj	SUBST	VESTAJXO	N	N	KF	NLM	4	R	# PIV:gatjo - Vasta gambjupo de hungaroj # OK
+gaviform	SUBST	BIRDO	N	N	KF	NLM	4	R	# PIV:gaviformaj - [Zoologio] Ordo de akvoloĝaj birdoj # OK
+gavioform	SUBST	BIRDO	N	N	KF	NLM	4	R	# PIV:gavioformaj - [Zoologio] Ordo de birdoj (sino: gaviformaj) # OK
+gazal	SUBST	POEZIO	N	N	KF	NLM	4	R	# PIV:gazalo - [Beletro] Persdevena poemeto # OK
+geastr	SUBST	FUNGO	N	N	KF	NLM	4	R	# PIV:geastro - [Botaniko] Genro de bazidifungoj # OK
+gefire	SUBST	VERMO	N	N	KF	NLM	4	R	# PIV:gefireoj - [Zoologio] Filumo de vermoj # OK

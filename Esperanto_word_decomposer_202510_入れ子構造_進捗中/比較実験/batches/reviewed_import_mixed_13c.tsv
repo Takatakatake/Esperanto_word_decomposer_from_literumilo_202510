@@ -1,0 +1,18 @@
+# morpheme	POS	MEANING	TRANS	WITHOUT_END	WITH_END	SYNTH	RARITY	FLAG	# SOURCE
+# Batch 13c: plants, chemistry, materials, animals, ships, languages
+gage	SUBST	PLANTO	N	N	KF	NLM	4	R	# PIV:gageo - [Botaniko] Genro de herboj kun flavaj floroj # OK
+galaktoz	SUBST	KEMIAJXO	N	N	KF	NLM	4	R	# PIV:galaktozo - [Kemio] Heksozo, izomero de glukozo # OK
+galalit	SUBST	KEMIAJXO	N	N	KF	NLM	4	R	# PIV:galalito - [Teknikoj] Plasto el kazeino kaj formaldehido # OK
+galang	SUBST	PLANTO	N	N	KF	NLM	4	R	# PIV:galango - [Botaniko] Specio/grupo de alpinio, spicaĵo # OK
+galb	SUBST	N	N	N	KF	NLM	4	R	# PIV:galbo - [Belartoj] Kurba konveksa konturo de arta objekto # OK
+galbul	SUBST	BIRDO	N	N	KF	NLM	4	R	# PIV:galbulo - [Zoologio] Genro de S-Amerikaj birdoj # OK
+galbuled	SUBST	BIRDO	N	N	KF	NLM	4	R	# PIV:galbuledoj - [Zoologio] Familio de pegoformaj birdoj # OK
+galeas	SUBST	SXIPO	N	N	KF	NLM	4	R	# PIV:galeaso - [Marnavigado] Granda galero kun kovrita remĉambro # OK
+galec	SUBST	N	N	N	KF	NLM	4	R	# PIV:galeco - Malico, gala humoro # OK
+galeg	ADJ	ETNO	N	N	KF	NLM	4	R	# PIV:galega - Rilata al galegoj (gento en Galegio) # OK
+gale	SUBST	N	N	N	KF	NLM	4	R	# PIV:galeo - [Tipografarto] Tabuleto por kompostitaj linioj # OK
+galg	SUBST	PLANTO	N	N	KF	NLM	4	R	# PIV:galgo - [Botaniko] Genro de plurjaraj herboj # OK
+galikan	ADJ	RELIGIO	N	N	KF	NLM	4	R	# PIV:galikana - [Kristanismo] Rilata al katolika eklezio de Francio # OK
+galikanism	SUBST	RELIGIO	N	N	KF	NLM	4	R	# PIV:galikanismo - [Historio] Politika-religia doktrino # OK
+galin	SUBST	PLANTO	N	N	KF	NLM	4	R	# PIV:galino - [Botaniko] Genro Galium de herboj # OK
+galinoform	SUBST	BIRDO	N	N	KF	NLM	4	R	# PIV:galinoformaj - [Zoologio] Ordo de birdoj # OK

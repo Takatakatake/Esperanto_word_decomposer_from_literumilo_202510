@@ -1,0 +1,10 @@
+表示語	解析語	語根分解結果
+-eja	-eja	ej.a
+-gami	-gami	gam.i
+-gene	-gene	gen.e
+-ine	-ine	in.e
+-ini	-ini	in.i
+-propenilo	-propenilo	pro.pen.il.o
+-vora	-vora	vor.a
+-voranto	-voranto	vor.ant.o
+-voruloj	-voruloj	vor.ul.oj

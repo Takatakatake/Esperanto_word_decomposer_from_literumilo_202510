@@ -1,0 +1,43 @@
+# morpheme	POS	MEANING	TRANS	WITHOUT_END	WITH_END	SYNTH	RARITY	FLAG	# SOURCE
+baktericid	ADJ	MEDIKAMENTO	N	N	KF	NLM	4	R	# PIV:baktericida (bactericidal) # OK
+baktericid	SUBST	MEDIKAMENTO	N	N	KF	NLM	4	R	# PIV:baktericido (bactericide) # OK
+bakteriofaĝ	SUBST	N	N	N	KF	NLM	4	R	# PIV:bakteriofaĝo (bacteriophage: virus that infects bacteria) # OK
+bakŝiŝ	SUBST	N	N	N	KF	NLM	4	R	# PIV:bakŝiŝo (baksheesh: tip, gratuity) # OK
+balafon	SUBST	N	N	N	KF	NLM	4	R	# PIV:balafono (balafon: West African percussion instrument) # OK
+balanit	SUBST	MALSANO	N	N	KF	NLM	4	R	# PIV:balanito (balanitis: inflammation) # OK
+balantidi	SUBST	N	N	N	KF	NLM	4	R	# PIV:balantidio (Balantidium: protozoan genus) # OK
+balat	SUBST	N	N	N	KF	NLM	4	R	# PIV:balato (ballad, ballade) # OK
+balened	SUBST	ANIMALO	N	N	KF	NLM	4	R	# PIV:balenedoj (right whale family Balenidae)
+balenoptered	SUBST	ANIMALO	N	N	KF	NLM	4	R	# PIV:balenopteredoj (rorqual family Balaenopteridae)
+balenopter	SUBST	ANIMALO	N	N	KF	NLM	4	R	# PIV:balenoptero (rorqual: genus Balaenoptera) # OK
+balote	SUBST	PLANTO	N	N	KF	NLM	4	R	# PIV:baloteo (black horehound: plant genus Ballota) # OK
+balzaminac	SUBST	PLANTO	N	N	KF	NLM	4	R	# PIV:balzaminacoj (balsam family Balsaminaceae)
+bambuz	SUBST	PLANTO	N	N	KF	NLM	4	R	# PIV:bambuzo (bamboo species) # OK
+banderil	SUBST	N	N	N	KF	NLM	4	R	# PIV:banderilo (banderilla: bullfighting dart) # OK
+bandolier	SUBST	N	N	N	KF	NLM	4	R	# PIV:bandoliero (bandolier: ammunition belt) # OK
+bangific	SUBST	ALGO	N	N	KF	NLM	4	R	# PIV:bangificoj (red algae family Bangiaceae)
+bangi	SUBST	ALGO	N	N	KF	NLM	4	R	# PIV:bangio (red algae genus Bangia) # OK
+bangiofic	SUBST	ALGO	N	N	KF	NLM	4	R	# PIV:bangioficoj (red algae class Bangiophyceae)
+bantu	ADJ	N	N	N	KF	NLM	4	R	# PIV:bantua (Bantu: relating to Bantu peoples) # OK
+baptisteri	SUBST	N	N	N	KF	NLM	4	R	# PIV:baptisterio (baptistery) # OK
+barbakan	SUBST	N	N	N	KF	NLM	4	R	# PIV:barbakano (barbican: fortification) # OK
+barbi	SUBST	ANIMALO	N	N	KF	NLM	4	R	# PIV:barbio (barbel: fish genus Barbus) # OK
+barbiton	SUBST	KEMIAJXO	N	N	KF	NLM	4	R	# PIV:barbitono (barbiturate compound) # OK
+barbitur	ADJ	KEMIAJXO	N	N	KF	NLM	4	R	# PIV:barbitura (barbituric) # OK
+barbitur	SUBST	KEMIAJXO	N	N	KF	NLM	4	R	# PIV:barbituro (barbituric acid) # OK
+barbiturism	SUBST	MALSANO	N	N	KF	NLM	4	R	# PIV:barbiturismo (barbiturate poisoning) # OK
+barion	SUBST	ELEMENTO	N	N	KF	NLM	4	R	# PIV:bariono (baryon: subatomic particle) # OK
+barum	SUBST	ELEMENTO	N	N	KF	NLM	4	R	# PIV:barumo (barium: chemical element) # OK
+basier	SUBST	N	N	N	KF	NLM	4	R	# PIV:basiero (Bassari: ethnic group/language)
+batav	ADJ	N	N	N	KF	NLM	4	R	# PIV:batava (Batavian: relating to Batavia/Netherlands) # OK
+batokrom	ADJ	N	N	N	KF	NLM	4	R	# PIV:batokroma (bathochromic: chemistry term) # OK
+batolit	SUBST	MINERALO	N	N	KF	NLM	4	R	# PIV:batolito (batholith: geology) # OK
+batometri	SUBST	MEZURILO	N	N	KF	NLM	4	R	# PIV:batometrio (bathymetry: depth measurement) # OK
+batometr	SUBST	MEZURILO	N	N	KF	NLM	4	R	# PIV:batometro (bathometer: depth measuring device) # OK
+batu	VERBO	N	T	N	KF	NLM	4	R	# PIV:batui (to beat/strike in batik making) # OK
+batu	SUBST	N	N	N	KF	NLM	4	R	# PIV:batuo (batik: textile art) # OK
+bavur	SUBST	N	N	N	KF	NLM	4	R	# PIV:bavuro (burr: rough edge on metal) # OK
+bazament	SUBST	N	N	N	KF	NLM	4	R	# PIV:bazamento (basement, base structure) # OK
+bazidi	SUBST	N	N	N	KF	NLM	4	R	# PIV:bazidio (basidium: fungal structure) # OK
+baŭhini	SUBST	PLANTO	N	N	KF	NLM	4	R	# PIV:baŭhinio (orchid tree: genus Bauhinia) # OK
+bedeli	SUBST	N	N	N	KF	NLM	4	R	# PIV:bedelio (bdellium: aromatic resin) # OK

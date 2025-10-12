@@ -1,0 +1,25 @@
+# morpheme	POS	MEANING	TRANS	WITHOUT_END	WITH_END	SYNTH	RARITY	FLAG	# SOURCE
+# Batch 13: psychology, chemistry, biology terms (fuels, algae, insects, morphemes, etc.)
+frustraci	SUBST	N	N	N	KF	NLM	4	R	# PIV:frustracio - [Psikologio] Frustriĝo, frustriteco
+ftalat	SUBST	KEMIAJXO	N	N	KF	NLM	4	R	# PIV:ftalato - [Kemio] Salo de ftalata acido # OK
+ftalein	SUBST	KEMIAJXO	N	N	KF	NLM	4	R	# PIV:ftaleino - [Kemio] Substanco, molekulo kun tri cikloj # OK
+ftalil	SUBST	KEMIAJXO	N	N	KF	NLM	4	R	# PIV:ftalilo - [Kemio] Kemia radiko C6H4(CO-)2 # OK
+ftal	SUBST	KEMIAJXO	N	N	KF	NLM	4	R	# PIV:ftalo - [Kemio] Ftalilo (en kunmetaĵoj) # OK
+ftir	SUBST	INSEKTO	N	N	KF	NLM	4	R	# PIV:ftiro - [Zoologio] Genro de insektoj, publaŭso # OK
+fuel	SUBST	KEMIAJXO	N	N	KF	NLM	4	R	# PIV:fuelo - [Teknikoj] Energilibera substanco # OK
+fukoficoj	SUBST	ALGO	N	N	KF	NLM	4	R	# PIV:fukoficoj - [Botaniko] Klaso de brunalgoj # OK
+fuleren	SUBST	KEMIAJXO	N	N	KF	NLM	4	R	# PIV:fulereno - [Kemio] Sfera karbona molekulo C60 # OK
+fulgor	SUBST	INSEKTO	N	N	KF	NLM	4	R	# PIV:fulgoro - [Zoologio] Genro de hemipteroj # OK
+fulgoromorfoj	SUBST	INSEKTO	N	N	KF	NLM	4	R	# PIV:fulgoromorfoj - [Zoologio] Subordo de hemipteroj # OK
+fulminad	SUBST	N	N	N	KF	NLM	4	R	# PIV:fulminado - Procezo en cilindro de eksplodmaŝino # OK
+fumarat	SUBST	KEMIAJXO	N	N	KF	NLM	4	R	# PIV:fumarato - [Kemio] Salo de fumarata acido # OK
+fumarol	SUBST	N	N	N	KF	NLM	4	R	# PIV:fumarolo - [Geologio] Truo elpuŝanta vaporon/gason # OK
+fumigaci	SUBST	N	N	N	KF	NLM	4	R	# PIV:fumigacio - Seninfektigo per fumo # OK
+fungicid	SUBST	MEDIKAMENTO	N	N	KF	NLM	4	R	# PIV:fungicido - [Kemio] Fungomortiga substanco # OK
+fungologi	SUBST	SCIENCO	N	N	KF	NLM	4	R	# PIV:fungologio - [Botaniko] Scienco pri fungoj, mikologio # OK
+fungoz	SUBST	MALSANO	N	N	KF	NLM	4	R	# PIV:fungozo - [Medicino] Fungokaŭzita malsano # OK
+funikular	SUBST	VETURILO	N	N	KF	NLM	4	R	# PIV:funikularo - [Teknikoj] Kablovojo sur deklivo # OK
+furgon	SUBST	VETURILO	N	N	KF	NLM	4	R	# PIV:furgono - [Teknikoj] Fermita ŝarĝ-aŭto # OK
+furunkoz	SUBST	MALSANO	N	N	KF	NLM	4	R	# PIV:furunkozo - [Medicino] Multiplaj furunkoloj # OK
+futurologi	SUBST	SCIENCO	N	N	KF	NLM	4	R	# PIV:futurologio - Scienco pri estonteco # OK
+gabr	SUBST	MINERALO	N	N	KF	NLM	4	R	# PIV:gabro - [Geologio] Malhelverda eruptiva roko # OK

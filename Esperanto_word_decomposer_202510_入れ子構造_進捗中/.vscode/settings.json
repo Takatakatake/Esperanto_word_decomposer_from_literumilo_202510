@@ -1,0 +1,106 @@
+{
+    // 既存の設定
+    "workbench.colorTheme": "Default Light Modern",
+    "editor.unicodeHighlight.nonBasicASCII": false,
+    "python.defaultInterpreterPath": "/home/yamada/anaconda3/bin/python",
+    "terminal.integrated.inheritEnv": false,
+    "security.workspace.trust.untrustedFiles": "open",
+    "editor.minimap.enabled": false,
+    "git.openRepositoryInParentFolders": "never",
+    "interactiveWindow.executeWithShiftEnter": true,
+    "workbench.startupEditor": "none",
+    "github.copilot.nextEditSuggestions.enabled": true,
+    // グローバル設定
+    "editor.suggest.matchOnWordStartOnly": false,
+    "editor.quickSuggestions": {
+        "other": true,
+        "comments": false,
+        "strings": false
+    },
+    "editor.quickSuggestionsDelay": 10,
+    "editor.suggest.showSnippets": true,
+    "editor.snippetSuggestions": "top",
+    "editor.suggest.snippetsPreventQuickSuggestions": false,
+    "editor.suggestOnTriggerCharacters": true,
+    "editor.suggest.filterGraceful": false,
+    "editor.suggest.showWords": false,
+    // Codex / Claude Code 共通の操作性向上
+    "terminal.integrated.defaultProfile.linux": "bash",
+    "terminal.integrated.defaultLocation": "editor",
+    "workbench.panel.defaultLocation": "right",
+    "workbench.editor.openSideBySideDirection": "right",
+    "workbench.editor.showTabs": "multiple",
+    "workbench.layoutControl.enabled": true,
+    "editor.wordWrap": "on",
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+        "source.organizeImports": "explicit"
+    },
+    // kanji-esperanto 専用設定（元の設定）
+    "[kanji-esperanto]": {
+        "editor.wordBasedSuggestions": "off",
+        "editor.quickSuggestions": {
+            "other": true,
+            "comments": true,
+            "strings": true
+        },
+        "editor.inlineSuggest.enabled": false,
+        "editor.suggest.preview": false,
+        "github.copilot.enable": {
+            "*": false
+        },
+        // ↓ 追加：削除時も候補を再評価
+        "editor.suggest.filterGraceful": true
+    },
+    "claude-code.selectedModel": "default",
+    "chat.tools.terminal.autoApprove": {
+        // 明示的に手動承認を維持する危険コマンド
+        "rm": false,
+        "/^rm\\b/": false,
+        "sudo": false,
+        "/^git (reset|clean)\\b/": {
+            "approve": false
+        },
+        "/^dd\\b/": {
+            "approve": false
+        },
+        "/^mkfs\\b/": {
+            "approve": false
+        },
+        "/^poweroff\\b/": {
+            "approve": false
+        },
+        "/^shutdown\\b/": {
+            "approve": false
+        },
+        "/^reboot\\b/": {
+            "approve": false
+        },
+        // よく使う安全なワークフローを自動承認
+        "/^git (status|diff|add|commit|log|branch|fetch|pull|push)\\b/": true,
+        "/^python(3)?\\b/": true,
+        "/^(PYTHONPATH|PATH|LANG|LC_ALL|LC_CTYPE)=[^ ]+ python(3)?\\b/": true,
+        "/^pip(3)?\\b/": true,
+        "/^pytest\\b/": true,
+        "/^poetry\\b/": true,
+        "/^rg\\b/": true,
+        "/^(ls|cat|head|tail|find|sed|awk|sort|uniq|wc|tree)\\b/": true,
+        "/^bash\\b/": true,
+        "/^sh\\b/": true,
+        "/^time\\b/": true,
+        "/^env\\b/": true,
+        "/^printf\\b/": true,
+        "/^echo\\b/": true,
+        // よく使うバッチコマンド（既存設定）
+        "python 比較実験/auto_mark_ok_in_batch.py 比較実験/batches/draft_vortaro_additions_20251012_0225.tsv": {
+            "approve": true,
+            "matchCommandLine": true
+        },
+        "python 比較実験/simulate_draft_import.py 比較実験/batches/draft_vortaro_additions_20251012_0225.tsv 1000": {
+            "approve": true,
+            "matchCommandLine": true
+        },
+        // その他はフェイルセーフで自動承認
+        "/.*/": true
+    }
+}

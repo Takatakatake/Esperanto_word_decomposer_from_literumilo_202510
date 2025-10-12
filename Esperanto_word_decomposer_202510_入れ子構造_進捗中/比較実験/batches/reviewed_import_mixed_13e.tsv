@@ -1,0 +1,31 @@
+# morpheme	POS	MEANING	TRANS	WITHOUT_END	WITH_END	SYNTH	RARITY	FLAG	# SOURCE
+# Batch 13e: geology, medical, chemistry, biology, literature, music
+georgik	SUBST	POEZIO	N	N	KF	NLM	4	R	# PIV:georgiko - [Beletro] Poemo pri terkulturistoj # OK
+geosfer	SUBST	N	N	N	KF	NLM	4	R	# PIV:geosfero - [Geologio] Samcentra tavolo de Tero # OK
+geosinklinal	SUBST	N	N	N	KF	NLM	4	R	# PIV:geosinklinalo - [Geologio] Granda malaltiĝo de terkrusto # OK
+geoteknik	SUBST	SCIENCO	N	N	KF	NLM	4	R	# PIV:geotekniko - [Konstrutekniko] Esplorado pri konstru-grundo # OK
+geoterm	SUBST	N	N	N	KF	NLM	4	R	# PIV:geotermo - [Geologio] Varmo de Tero, varmenergio # OK
+geotermik	SUBST	SCIENCO	N	N	KF	NLM	4	R	# PIV:geotermiko - [Geologio] Scienco pri geotermo # OK
+geotermism	SUBST	N	N	N	KF	NLM	4	R	# PIV:geotermismo - Procezoj rilataj al geotermo # OK
+geotropism	SUBST	N	N	N	KF	NLM	4	R	# PIV:geotropismo - Gravitotropismo # OK
+geotruped	SUBST	INSEKTO	N	N	KF	NLM	4	R	# PIV:geotrupedoj - [Zoologio] Familio de koleopteroj # OK
+geranial	SUBST	KEMIAJXO	N	N	KF	NLM	4	R	# PIV:geranialo - [Kemio] Monoterpena aldehido # OK
+geraniol	SUBST	KEMIAJXO	N	N	KF	NLM	4	R	# PIV:geraniolo - [Kemio] Monoterpena alkoholo # OK
+geriatri	SUBST	SCIENCO	N	N	KF	NLM	4	R	# PIV:geriatrio - [Medicino] Fako pri malsanoj de maljunuloj # OK
+geriatr	SUBST	PROFESIO	N	N	KF	NLM	4	R	# PIV:geriatro - [Medicino] Fakulo pri geriatrio # OK
+geris	SUBST	INSEKTO	N	N	KF	NLM	4	R	# PIV:geriso - [Zoologio] Genro de longkruraj cimoj # OK
+ghett	SUBST	LOKO	N	N	KF	NLM	4	R	# PIV:ghetto - Apartaj kvartaloj por judoj # OK
+giardi	SUBST	ANIMALO	N	N	KF	NLM	4	R	# PIV:giardio - [Zoologio] Genro de protozooj # OK
+giardioz	SUBST	MALSANO	N	N	KF	NLM	4	R	# PIV:giardiozo - [Medicino] Malsano kaŭzata de giardio # OK
+giberelin	SUBST	N	N	N	KF	NLM	4	R	# PIV:giberelino - [Botaniko/Kemio] Vegetaĵa hormono # OK
+gig	SUBST	SXIPO	N	N	KF	NLM	4	R	# PIV:gigo - [Marnavigado] Mallarĝa boato # OK
+gimnastikil	SUBST	ILO	N	N	KF	NLM	4	R	# PIV:gimnastikilo - Aparato por gimnastiki # OK
+gimnoted	SUBST	FISXO	N	N	KF	NLM	4	R	# PIV:gimnotedoj - [Zoologio] Familio de fiŝoj # OK
+ginseng	SUBST	PLANTO	N	N	KF	NLM	4	R	# PIV:ginsengo - [Botaniko] Specio de panako, medicine uzata # OK
+gip	SUBST	BIRDO	N	N	KF	NLM	4	R	# PIV:gipo - [Zoologio] Genro de vulturoj # OK
+gipsofil	SUBST	PLANTO	N	N	KF	NLM	4	R	# PIV:gipsofilo - [Botaniko] Genro de herboj # OK
+gipur	SUBST	SXTOFO	N	N	KF	NLM	4	R	# PIV:gipuro - [Teksindustrio] Speco de reliefa punto # OK
+girec	ADJ	N	N	N	KF	NLM	4	R	# PIV:gireca - Aspektanta kiel giroj (cerebraj) # OK
+giromitrin	SUBST	KEMIAJXO	N	N	KF	NLM	4	R	# PIV:giromitrino - [Kemio] Tokso de fungo # OK
+glaciologi	SUBST	SCIENCO	N	N	KF	NLM	4	R	# PIV:glaciologio - [Geologio] Scienco pri glacio, glaĉeroj # OK
+glagolic	SUBST	N	N	N	KF	NLM	4	R	# PIV:glagolico - Malnovslava alfabeto # OK

@@ -1,0 +1,71 @@
+# morpheme	POS	MEANING	TRANS	WITHOUT_END	WITH_END	SYNTH	RARITY	FLAG	# SOURCE
+bos	VERBO	N	T	N	KF	NLM	4	R	# PIV:bosi (to emboss) # OK
+bos	SUBST	N	N	N	KF	NLM	4	R	# PIV:boso (boss, embossed work) # OK
+bostrik	SUBST	INSEKTO	N	N	KF	NLM	4	R	# PIV:bostriko (bark beetle genus Bostrichus) # OK
+bosveli	SUBST	PLANTO	N	N	KF	NLM	4	R	# PIV:bosvelio (frankincense tree genus Boswellia) # OK
+botarg	SUBST	N	N	N	KF	NLM	4	R	# PIV:botargo (bottarga: fish roe product) # OK
+botrit	SUBST	N	N	N	KF	NLM	4	R	# PIV:botrito (Botrytis: fungal genus) # OK
+boved	SUBST	ANIMALO	N	N	KF	NLM	4	R	# PIV:bovedoj (cattle family Bovidae)
+boviste	SUBST	N	N	N	KF	NLM	4	R	# PIV:bovisteo (puffball fungus genus Bovista) # OK
+bradikardi	SUBST	MALSANO	N	N	KF	NLM	4	R	# PIV:bradikardio (bradycardia: slow heart rate) # OK
+bradiped	SUBST	ANIMALO	N	N	KF	NLM	4	R	# PIV:bradipedoj (sloth family Bradypodidae)
+bradipepsi	SUBST	MALSANO	N	N	KF	NLM	4	R	# PIV:bradipepsio (bradypepsia: slow digestion) # OK
+brakin	SUBST	PLANTO	N	N	KF	NLM	4	R	# PIV:brakino (bracken fern) # OK
+brakiopod	SUBST	ANIMALO	N	N	KF	NLM	4	R	# PIV:brakiopodoj (brachiopod phylum)
+brankiopod	SUBST	ANIMALO	N	N	KF	NLM	4	R	# PIV:brankiopodoj (branchiopod class)
+brankiostom	SUBST	ANIMALO	N	N	KF	NLM	4	R	# PIV:brankiostomo (lancelet genus Branchiostoma) # OK
+branĉid	SUBST	N	N	N	KF	NLM	4	R	# PIV:branĉido (branchiid: family of crustaceans) # OK
+braĉ	SUBST	N	N	N	KF	NLM	4	R	# PIV:braĉo (brach: hunting dog) # OK
+braĥin	SUBST	INSEKTO	N	N	KF	NLM	4	R	# PIV:braĥino (bombardier beetle genus Brachinus) # OK
+braĥiur	SUBST	ANIMALO	N	N	KF	NLM	4	R	# PIV:braĥiuro (brachyuran: true crab) # OK
+bregm	SUBST	ANATOMIO	N	N	KF	NLM	4	R	# PIV:bregmo (bregma: skull landmark) # OK
+bremŝ	SUBST	N	N	N	KF	NLM	4	R	# PIV:bremŝo (bremsstrahlung: radiation) # OK
+brevet	SUBST	N	N	N	KF	NLM	4	R	# PIV:breveto (brevet: military rank certificate) # OK
+brev	SUBST	N	N	N	KF	NLM	4	R	# PIV:brevo (breve: musical/phonetic symbol) # OK
+brez	VERBO	N	T	N	KF	NLM	4	R	# PIV:brezi (to braise: cooking method) # OK
+breĉi	SUBST	MINERALO	N	N	KF	NLM	4	R	# PIV:breĉio (breccia: sedimentary rock) # OK
+brifit	SUBST	PLANTO	N	N	KF	NLM	4	R	# PIV:brifitoj (moss class Bryophyta)
+brikabrak	SUBST	N	N	N	KF	NLM	4	R	# PIV:brikabrako (bric-a-brac) # OK
+bri	SUBST	N	N	N	KF	NLM	4	R	# PIV:brio (brie cheese) # OK
+briopsid	SUBST	ALGO	N	N	KF	NLM	4	R	# PIV:briopsidoj (green algae order Bryopsidales)
+briozoo	SUBST	ANIMALO	N	N	KF	NLM	4	R	# PIV:briozooj (bryozoan phylum)
+brioĉ	SUBST	N	N	N	KF	NLM	4	R	# PIV:brioĉo (brioche: bread) # OK
+brisur	SUBST	N	N	N	KF	NLM	4	R	# PIV:brisuro (heraldic mark of cadency) # OK
+briton	ADJ	N	N	N	KF	NLM	4	R	# PIV:britona (Breton) # OK
+brokatel	SUBST	N	N	N	KF	NLM	4	R	# PIV:brokatelo (brocatelle: fabric/marble) # OK
+bromeli	SUBST	PLANTO	N	N	KF	NLM	4	R	# PIV:bromelio (bromeliad genus Bromelia) # OK
+bromus	SUBST	PLANTO	N	N	KF	NLM	4	R	# PIV:bromuso (brome grass genus Bromus) # OK
+bronkoskopi	SUBST	N	N	N	KF	NLM	4	R	# PIV:bronkoskopio (bronchoscopy: medical procedure) # OK
+bronkoskop	SUBST	MEZURILO	N	N	KF	NLM	4	R	# PIV:bronkoskopo (bronchoscope: medical instrument) # OK
+brosm	SUBST	ANIMALO	N	N	KF	NLM	4	R	# PIV:brosmo (cusk fish genus Brosme) # OK
+bruceloz	SUBST	MALSANO	N	N	KF	NLM	4	R	# PIV:brucelozoj (brucellosis: disease)
+brucin	SUBST	KEMIAJXO	N	N	KF	NLM	4	R	# PIV:brucino (brucine: alkaloid) # OK
+brum	SUBST	N	N	N	KF	NLM	4	R	# PIV:brumo (haze, mist) # OK
+brunfelsi	SUBST	PLANTO	N	N	KF	NLM	4	R	# PIV:brunfelsio (plant genus Brunfelsia) # OK
+brunjon	SUBST	N	N	N	KF	NLM	4	R	# PIV:brunjono (brunion: type of plum) # OK
+brusoneti	SUBST	PLANTO	N	N	KF	NLM	4	R	# PIV:brusonetio (paper mulberry genus Broussonetia) # OK
+buad	VERBO	N	T	N	KF	NLM	4	R	# PIV:buadi (to sulk, pout) # OK
+budle	SUBST	PLANTO	N	N	KF	NLM	4	R	# PIV:budleo (butterfly bush genus Buddleja) # OK
+bufon	SUBST	ANIMALO	N	N	KF	NLM	4	R	# PIV:bufono (toad genus Bufo) # OK
+buftalm	SUBST	PLANTO	N	N	KF	NLM	4	R	# PIV:buftalmo (plant genus Buphthalmum) # OK
+bugl	SUBST	PLANTO	N	N	KF	NLM	4	R	# PIV:buglo (bugle plant genus Ajuga) # OK
+bujabes	SUBST	N	N	N	KF	NLM	4	R	# PIV:bujabeso (bouillabaisse: fish stew) # OK
+bukcinator	SUBST	ANATOMIO	N	N	KF	NLM	4	R	# PIV:bukcinatoro (buccinator muscle) # OK
+bukolik	SUBST	N	N	N	KF	NLM	4	R	# PIV:bukoliko (bucolic: pastoral poem) # OK
+bukorak	SUBST	ANIMALO	N	N	KF	NLM	4	R	# PIV:bukorako (hornbill genus Buceros) # OK
+bukŝ	SUBST	N	N	N	KF	NLM	4	R	# PIV:bukŝo (boxwood, buxus) # OK
+bulimi	SUBST	MALSANO	N	N	KF	NLM	4	R	# PIV:bulimio (bulimia: eating disorder) # OK
+bull	SUBST	N	N	N	KF	NLM	4	R	# PIV:bullo (papal bull) # OK
+bungar	SUBST	ANIMALO	N	N	KF	NLM	4	R	# PIV:bungaro (krait snake genus Bungarus) # OK
+bupleŭr	SUBST	PLANTO	N	N	KF	NLM	4	R	# PIV:bupleŭro (hare's ear plant genus Bupleurum) # OK
+buprest	SUBST	INSEKTO	N	N	KF	NLM	4	R	# PIV:bupresto (jewel beetle family Buprestidae) # OK
+burask	SUBST	N	N	N	KF	NLM	4	R	# PIV:burasko (burqa, burka) # OK
+burg	SUBST	N	N	N	KF	NLM	4	R	# PIV:burgo (borough, fortified town) # OK
+burjat	SUBST	N	N	N	KF	NLM	4	R	# PIV:burjato (Buryat: ethnic group) # OK
+burk	SUBST	N	N	N	KF	NLM	4	R	# PIV:burko (burqa variant) # OK
+burnuŝ	SUBST	N	N	N	KF	NLM	4	R	# PIV:burnuŝo (burnoose: hooded cloak) # OK
+burserac	SUBST	PLANTO	N	N	KF	NLM	4	R	# PIV:burseracoj (frankincense family Burseraceae)
+burser	SUBST	PLANTO	N	N	KF	NLM	4	R	# PIV:bursero (gumbo-limbo genus Bursera) # OK
+bursit	SUBST	MALSANO	N	N	KF	NLM	4	R	# PIV:bursito (bursitis: inflammation) # OK
+burs	SUBST	ANATOMIO	N	N	KF	NLM	4	R	# PIV:burso (bursa: anatomical sac) # OK
+but	SUBST	N	N	N	KF	NLM	4	R	# PIV:but # OK

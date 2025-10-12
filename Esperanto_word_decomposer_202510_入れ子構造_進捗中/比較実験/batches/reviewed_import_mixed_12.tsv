@@ -1,0 +1,93 @@
+# morpheme	POS	MEANING	TRANS	WITHOUT_END	WITH_END	SYNTH	RARITY	FLAG	# SOURCE
+emitor	SUBST	N	N	N	KF	NLM	4	R	# PIV:emitoro (emitter: electronic device) # OK
+empetr	SUBST	PLANTO	N	N	KF	NLM	4	R	# PIV:empetro (crowberry genus Empetrum) # OK
+empire	SUBST	N	N	N	KF	NLM	4	R	# PIV:empireo (empyrean: highest heaven) # OK
+empori	SUBST	N	N	N	KF	NLM	4	R	# PIV:emporio (emporium: marketplace) # OK
+emulsiant	SUBST	KEMIAJXO	N	N	KF	NLM	4	R	# PIV:emulsianto (emulsifier agent) # OK
+emulsiaz	SUBST	N	N	N	KF	NLM	4	R	# PIV:emulsiazo (emulsion enzyme) # OK
+emulsiil	SUBST	N	N	N	KF	NLM	4	R	# PIV:emulsiilo (emulsifying tool) # OK
+emulsiin	SUBST	KEMIAJXO	N	N	KF	NLM	4	R	# PIV:emulsiino (emulsin: enzyme) # OK
+emulsioid	SUBST	N	N	N	KF	NLM	4	R	# PIV:emulsioido (emulsoid: colloid) # OK
+enantiomorf	ADJ	N	N	N	KF	NLM	4	R	# PIV:enantiomorfa (enantiomorphic) # OK
+enantiomorfism	SUBST	N	N	N	KF	NLM	4	R	# PIV:enantiomorfismo (enantiomorphism) # OK
+enantiotrop	ADJ	N	N	N	KF	NLM	4	R	# PIV:enantiotropa (enantiotropic) # OK
+enantiotropism	SUBST	N	N	N	KF	NLM	4	R	# PIV:enantiotropismo (enantiotropy) # OK
+enantioz	SUBST	N	N	N	KF	NLM	4	R	# PIV:enantiozo (enantiosis: rhetorical device) # OK
+encefalalgi	SUBST	MALSANO	N	N	KF	NLM	4	R	# PIV:encefalalgio (encephalalgia: headache) # OK
+encefalin	SUBST	KEMIAJXO	N	N	KF	NLM	4	R	# PIV:encefalino (enkephalin: peptide) # OK
+encefalografi	SUBST	N	N	N	KF	NLM	4	R	# PIV:encefalografio (encephalography) # OK
+endoderm	SUBST	N	N	N	KF	NLM	4	R	# PIV:endodermo (endoderm: germ layer) # OK
+endogen	ADJ	N	N	N	KF	NLM	4	R	# PIV:endogena (endogenous) # OK
+endokrinologi	SUBST	SCIENCO	N	N	KF	NLM	4	R	# PIV:endokrinologio (endocrinology) # OK
+endomorfi	SUBST	N	N	N	KF	NLM	4	R	# PIV:endomorfio (endomorphy: body type) # OK
+endorfin	SUBST	KEMIAJXO	N	N	KF	NLM	4	R	# PIV:endorfino (endorphin: peptide) # OK
+endoskopi	SUBST	N	N	N	KF	NLM	4	R	# PIV:endoskopio (endoscopy) # OK
+endosperm	SUBST	PLANTO	N	N	KF	NLM	4	R	# PIV:endospermo (endosperm: seed tissue) # OK
+endoteli	SUBST	ANATOMIO	N	N	KF	NLM	4	R	# PIV:endotelio (endothelium: cell layer) # OK
+engl	SUBST	N	N	N	KF	NLM	4	R	# PIV:engloj (Angles: Germanic people)
+enkaŭstik	VERBO	N	T	N	KF	NLM	4	R	# PIV:enkaŭstiki (to encaust: paint with wax) # OK
+enkaŭstik	SUBST	N	N	N	KF	NLM	4	R	# PIV:enkaŭstiko (encaustic: wax painting) # OK
+enkliz	SUBST	GRAMATIKO	N	N	KF	NLM	4	R	# PIV:enklizo (enclitic: grammar term) # OK
+enolog	SUBST	N	N	N	KF	NLM	4	R	# PIV:enologo (oenologist: wine scientist) # OK
+enoterac	SUBST	PLANTO	N	N	KF	NLM	4	R	# PIV:enoteracoj (evening primrose family Onagraceae)
+ensifer	SUBST	INSEKTO	N	N	KF	NLM	4	R	# PIV:ensiferoj (bush cricket family Tettigoniidae)
+enteleki	SUBST	N	N	N	KF	NLM	4	R	# PIV:entelekio (entelechy: philosophy) # OK
+entel	SUBST	N	N	N	KF	NLM	4	R	# PIV:entelo (entellus: monkey genus) # OK
+enteralgi	SUBST	MALSANO	N	N	KF	NLM	4	R	# PIV:enteralgio (enteralgia: intestinal pain) # OK
+enter	SUBST	ANATOMIO	N	N	KF	NLM	4	R	# PIV:entero (intestine) # OK
+enterokinaz	SUBST	KEMIAJXO	N	N	KF	NLM	4	R	# PIV:enterokinazo (enterokinase: enzyme) # OK
+enteropneŭst	SUBST	ANIMALO	N	N	KF	NLM	4	R	# PIV:enteropneŭstoj (acorn worms: hemichordate class)
+entolom	SUBST	ANIMALO	N	N	KF	NLM	4	R	# PIV:entolomo (entoloma: mushroom genus) # OK
+entomoloĝ	SUBST	N	N	N	KF	NLM	4	R	# PIV:entomoloĝo (entomologist) # OK
+entomostrak	SUBST	ANIMALO	N	N	KF	NLM	4	R	# PIV:entomostrakoj (entomostracan crustaceans)
+enumeraci	SUBST	N	N	N	KF	NLM	4	R	# PIV:enumeracio (enumeration) # OK
+enzimologi	SUBST	SCIENCO	N	N	KF	NLM	4	R	# PIV:enzimologio (enzymology) # OK
+eol	ADJ	N	N	N	KF	NLM	4	R	# PIV:eola (Aeolian: relating to Aeolus/wind) # OK
+eon	SUBST	N	N	N	KF	NLM	4	R	# PIV:eono (eon: geological time) # OK
+eonotem	SUBST	N	N	N	KF	NLM	4	R	# PIV:eonotemo (eonothem: geological unit) # OK
+eost	SUBST	N	N	N	KF	NLM	4	R	# PIV:eosto (eos: Greek goddess/dawn) # OK
+epakrid	SUBST	PLANTO	N	N	KF	NLM	4	R	# PIV:epakrido (epacris: heath plant genus) # OK
+epanortoz	SUBST	GRAMATIKO	N	N	KF	NLM	4	R	# PIV:epanortozo (epanorthosis: rhetorical correction) # OK
+epeirogenez	SUBST	N	N	N	KF	NLM	4	R	# PIV:epeirogenezo (epeirogeny: land uplift) # OK
+epentez	SUBST	GRAMATIKO	N	N	KF	NLM	4	R	# PIV:epentezo (epenthesis: sound insertion) # OK
+eperlan	SUBST	ANIMALO	N	N	KF	NLM	4	R	# PIV:eperlano (smelt fish) # OK
+epicentr	SUBST	N	N	N	KF	NLM	4	R	# PIV:epicentro (epicenter) # OK
+epidendr	SUBST	PLANTO	N	N	KF	NLM	4	R	# PIV:epidendro (orchid genus Epidendrum) # OK
+epididim	SUBST	ANATOMIO	N	N	KF	NLM	4	R	# PIV:epididimo (epididymis) # OK
+epifenomen	SUBST	N	N	N	KF	NLM	4	R	# PIV:epifenomeno (epiphenomenon) # OK
+epifit	SUBST	PLANTO	N	N	KF	NLM	4	R	# PIV:epifito (epiphyte: plant growing on another) # OK
+epifizit	SUBST	MALSANO	N	N	KF	NLM	4	R	# PIV:epifizito (epiphysitis: inflammation) # OK
+epifonem	SUBST	GRAMATIKO	N	N	KF	NLM	4	R	# PIV:epifonemo (epiphonema: exclamation) # OK
+epigenez	ADJ	N	N	N	KF	NLM	4	R	# PIV:epigeneza (epigenetic) # OK
+epigenez	SUBST	N	N	N	KF	NLM	4	R	# PIV:epigenezo (epigenesis) # OK
+epik	ADJ	N	N	N	KF	NLM	4	R	# PIV:epika (epic: relating to epic poetry) # OK
+epik	SUBST	N	N	N	KF	NLM	4	R	# PIV:epiko (epic: long narrative poem) # OK
+epikant	SUBST	ANATOMIO	N	N	KF	NLM	4	R	# PIV:epikanto (epicanthus: eyelid fold) # OK
+epikondil	SUBST	ANATOMIO	N	N	KF	NLM	4	R	# PIV:epikondilo (epicondyle: bone projection) # OK
+epiloĝ	SUBST	N	N	N	KF	NLM	4	R	# PIV:epiloĝo (epilogue) # OK
+epimorfi	SUBST	N	N	N	KF	NLM	4	R	# PIV:epimorfio (epimorphism: math/biology) # OK
+epinefrin	SUBST	KEMIAJXO	N	N	KF	NLM	4	R	# PIV:epinefrino (epinephrine: adrenaline) # OK
+epipaktid	SUBST	PLANTO	N	N	KF	NLM	4	R	# PIV:epipaktido (helleborine genus Epipactis) # OK
+epipaleolitik	SUBST	N	N	N	KF	NLM	4	R	# PIV:epipaleolitiko (Epipaleolithic period) # OK
+epiplo	SUBST	ANATOMIO	N	N	KF	NLM	4	R	# PIV:epiploo (omentum: abdominal membrane) # OK
+epirogenez	ADJ	N	N	N	KF	NLM	4	R	# PIV:epirogeneza (epirogenic) # OK
+epirogenez	SUBST	N	N	N	KF	NLM	4	R	# PIV:epirogenezo (epeirogeny variant) # OK
+episom	SUBST	N	N	N	KF	NLM	4	R	# PIV:episomo (episome: genetic element) # OK
+epispastik	ADJ	MEDIKAMENTO	N	N	KF	NLM	4	R	# PIV:epispastika (epispastic: blistering) # OK
+epistaks	SUBST	N	N	N	KF	NLM	4	R	# PIV:epistakso (epistaxis: nosebleed) # OK
+epistat	ADJ	N	N	N	KF	NLM	4	R	# PIV:epistata (epistatic: genetics) # OK
+epistemologi	SUBST	SCIENCO	N	N	KF	NLM	4	R	# PIV:epistemologio (epistemology) # OK
+epitaksi	SUBST	N	N	N	KF	NLM	4	R	# PIV:epitaksio (epitaxy: crystal growth) # OK
+epitalam	SUBST	ANATOMIO	N	N	KF	NLM	4	R	# PIV:epitalamo (epithalamus: brain part) # OK
+epiteliom	SUBST	MALSANO	N	N	KF	NLM	4	R	# PIV:epiteliomo (epithelioma: tumor) # OK
+epod	SUBST	N	N	N	KF	NLM	4	R	# PIV:epodo (epode: lyric poem) # OK
+epoksi	SUBST	KEMIAJXO	N	N	KF	NLM	4	R	# PIV:epoksio (epoxy: resin) # OK
+epsilon	SUBST	N	N	N	KF	NLM	4	R	# PIV:epsilono (epsilon: Greek letter) # OK
+epulis	SUBST	MALSANO	N	N	KF	NLM	4	R	# PIV:epuliso (epulis: gum tumor) # OK
+eratik	ADJ	N	N	N	KF	NLM	4	R	# PIV:eratika (erratic: geology/behavior) # OK
+eratum	SUBST	N	N	N	KF	NLM	4	R	# PIV:eratumo (erratum: printing error) # OK
+erepsin	SUBST	KEMIAJXO	N	N	KF	NLM	4	R	# PIV:erepsino (erepsin: enzyme) # OK
+ereti	SUBST	PLANTO	N	N	KF	NLM	4	R	# PIV:eretio (ehretia: tree genus) # OK
+eretism	SUBST	N	N	N	KF	NLM	4	R	# PIV:eretismo (erethism: abnormal irritability) # OK
+ergativ	SUBST	GRAMATIKO	N	N	KF	NLM	4	R	# PIV:ergativo (ergative case) # OK
+ergonomi	SUBST	SCIENCO	N	N	KF	NLM	4	R	# PIV:ergonomio (ergonomics) # OK

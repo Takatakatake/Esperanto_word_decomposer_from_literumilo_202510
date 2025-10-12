@@ -1,0 +1,46 @@
+Esperanto morpheme analyser comparison
+=====================================
+
+Gold dataset: 37281 entries extracted from PEJVO.txt
+
+literumilo (current)
+  Valid analyses : 37281/37281 (100.00%)
+  Exact matches  : 37281/37281 (100.00%)
+  Invalid count  : 0
+  Mismatch count : 0
+
+literumilo_old
+  Valid analyses : 33271/37281 (89.24%)
+  Exact matches  : 32197/37281 (86.36%)
+  Invalid count  : 4010
+  Mismatch count : 1074
+
+Improvements (current - old)
+-----------------------------
+  Valid analyses : +4010
+  Exact matches  : +5084
+
+literumilo_old invalid examples:
+  - abateco: expected abat.ec.o | observed abateco
+  - abĥazio: expected abĥaz.i.o | observed abĥazio
+  - abiaro: expected abi.ar.o | observed abiaro
+  - abipiceo: expected abi.pice.o | observed abipiceo
+  - abipinglo: expected abi.pingl.o | observed abipinglo
+  - abisenio: expected abisen.i.o | observed abisenio
+  - abocolibro: expected aboc.o.libr.o | observed abocolibro
+  - abolicii: expected abolici.i | observed abolicii
+  - aboliciismo: expected abolici.ism.o | observed aboliciismo
+  - abolicio: expected abolici.o | observed abolicio
+
+literumilo_old mismatch examples:
+  - adasismo: expected ad.as.ism.o | observed adasism.o
+  - aerodinamiko: expected aer.o.dinamik.o | observed aerodinamik.o
+  - aerometro: expected aerometr.o | observed aer.o.metr.o
+  - aerostatiko: expected aer.o.statik.o | observed aerostat.ik.o
+  - afganio: expected afgan.i.o | observed afgani.o
+  - agraro: expected agr.ar.o | observed ag.rar.o
+  - agrarulo: expected agr.ar.ul.o | observed ag.rar.ul.o
+  - agregi: expected agreg.i | observed ag.reg.i
+  - agrokulturisto: expected agr.o.kultur.ist.o | observed agrokultur.ist.o
+  - agrokulturo: expected agr.o.kultur.o | observed agrokultur.o
+

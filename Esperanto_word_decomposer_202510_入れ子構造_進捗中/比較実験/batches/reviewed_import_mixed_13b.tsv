@@ -1,0 +1,13 @@
+# morpheme	POS	MEANING	TRANS	WITHOUT_END	WITH_END	SYNTH	RARITY	FLAG	# SOURCE
+# Batch 13b: music, chemistry, biology, medical, animals, vehicles, sciences
+funk	SUBST	MUZIKO	N	N	KF	NLM	4	R	# PIV:funko - [Muziko] Speco de tre ritma muziko # OK
+funkcial	ADJ	MATEMATIKO	N	N	KF	NLM	4	R	# PIV:funkciala - [Matematiko] Pri ekvacio kun funkcio # OK
+funkcional	SUBST	MATEMATIKO	N	N	KF	NLM	4	R	# PIV:funkcionalo - [Matematiko] Funkcio kun argumentoj funkcioj # OK
+fural	SUBST	KEMIAJXO	N	N	KF	NLM	4	R	# PIV:furalo - [Kemio] 2-furanaldehido, uzata en industrio # OK
+furan	SUBST	KEMIAJXO	N	N	KF	NLM	4	R	# PIV:furano - [Kemio] Heterocikla nesaturita substanco # OK
+furnitur	SUBST	N	N	N	KF	NLM	4	R	# PIV:furnituro - Kudraj akcesoraĵoj por vesto # OK
+fuzel	SUBST	KEMIAJXO	N	N	KF	NLM	4	R	# PIV:fuzelo - [Kemio] Kromprodukto de alkohola fermentado # OK
+fuzulined	SUBST	ANIMALO	N	N	KF	NLM	4	R	# PIV:fuzulinedoj - [Paleontologio] Familio de foraminiferoj # OK
+gaded	SUBST	FISXO	N	N	KF	NLM	4	R	# PIV:gadedoj - [Zoologio] Familio de fiŝoj (moruo ktp) # OK
+gadmes	SUBST	N	N	N	KF	NLM	4	R	# PIV:gadmeso - Penisforma objekto por volupto # OK
+gadoform	SUBST	FISXO	N	N	KF	NLM	4	R	# PIV:gadoformaj - [Zoologio] Ordo de teleosteaj fiŝoj # OK
